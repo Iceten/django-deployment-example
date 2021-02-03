@@ -1,0 +1,4 @@
+.navbar-nav {
+    flex-direction: column-reverse;
+    background-color: red;
+}
